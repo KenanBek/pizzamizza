@@ -1,0 +1,1 @@
+Usually I also put here 'media' and 'static' folders with configured '.gitignore' file.
